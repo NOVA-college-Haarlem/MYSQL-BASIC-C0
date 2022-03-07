@@ -59,7 +59,7 @@ DELETE FROM player WHERE wage > 15000;
 
 Schrijf DELETE-statements om de onderstaande opdrachten uit te voeren
 
-1. Verwijder de speler David Sylva
+1. Verwijder de speler David Silva
 2. Verwijder alle spelers van Willem II
 3. Verwijder alle belgische spelers die spelen voor FC Barcelona
 4. Verwijder alle spelers die ouder of even oud zijn dan 38
